@@ -1,0 +1,16 @@
+{
+  "teacher": {
+    "mae_normalized": 0.04588291049003601,
+    "rmse_normalized": 0.05797802348070186,
+    "parameters": 118081,
+    "avg_prediction_seconds": 0.0013838686662105222
+  },
+  "student": {
+    "mae_normalized": 0.04489543288946152,
+    "rmse_normalized": 0.0569059103440293,
+    "parameters": 4897,
+    "avg_prediction_seconds": 0.0008254100002037982
+  },
+  "student_tflite_size_kb": 19.68,
+  "tflite_conversion_success": true
+}
