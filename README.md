@@ -1,4 +1,4 @@
-🚦 Live Edge-Based Traffic Flow Prediction
+ 🚦 Live Edge-Based Traffic Flow Prediction
 
 An AI-powered traffic monitoring and prediction system that combines real-time traffic data with a lightweight LSTM deep-learning model.
 
