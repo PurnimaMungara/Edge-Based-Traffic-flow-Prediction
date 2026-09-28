@@ -79,7 +79,7 @@ Create:
 
 Add:
 
-TOMTOM_API_KEY = "YOUR_API_KEY"
+TOMTOM_API_KEY = "XXXXXXXXXXXXXXXXXXX"
 
 For deployment, add the same key through Streamlit → Advanced Settings → Secrets.
 
